@@ -12,7 +12,7 @@ export default function Home(props) {
             <Nav firstName={props.firstName} lastName={props.lastName} age={props.age}></Nav>
 
             <Button text="Read More"></Button>
-            <Button text="Apply"></Button>
+            <Button text="Contact"></Button>
 
             {/* <h1>Home</h1> */}
         </>
